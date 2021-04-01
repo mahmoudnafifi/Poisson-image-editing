@@ -11,10 +11,13 @@ For more information read Readme.pdf
 ### Get Started
 
 1- Open Demo.m
+
 2- Change the filenames accordingly; in the current demo we assume the source, target, and result images have the following filenames:
+```
 source='source_image.jpg';
 target='target_image.jpg';
 result='result_image.jpg';
+```
 3- Run Demo.m
 
 
