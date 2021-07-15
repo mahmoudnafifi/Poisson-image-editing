@@ -1,4 +1,7 @@
 function im_out = PIE( im_target,im_source,im_mask,m,c )
+%%
+% Author: Mahmoud Afifi, York University
+%
 %PIE function: blends the source image with the target one based on the
 %boundary given as a BW mask using Poisson Image Editing (PIE)
 %  -Usage-
