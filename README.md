@@ -1,6 +1,8 @@
 Matlab implementation of:
 Pérez, Patrick, Michel Gangnet, and Andrew Blake. "Poisson image editing." ACM Transactions on Graphics (TOG). Vol. 22. No. 3. ACM, 2003.
 
+[![DOI](https://zenodo.org/badge/353795187.svg)](https://doi.org/10.5281/zenodo.19316288)
+
 ![PIE](https://user-images.githubusercontent.com/37669469/113340138-802ee100-92f9-11eb-9f3d-3636cd80a528.jpg)
 
 Gradient domain is used instead of intensity of pixels in image cloning to blend two images by solving Poisson equations with a predefined boundary condition. Based on this idea, there are two options:
